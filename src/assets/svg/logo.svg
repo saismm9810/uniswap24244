@@ -1,8 +1,5 @@
-<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="14" height="15" viewBox="0 0 14 15"
- preserveAspectRatio="xMidYMid meet">
-<g transform="translate(0.000000,149.000000) scale(0.100000,-0.100000)"
-fill="#000000" stroke="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="15" viewBox="0 0 14 15">
+<g style="mix-blend-mode:darken">
 <path d="M1503 1165 c-24 -7 -58 -22 -76 -33 -29 -17 -36 -18 -53 -5 -14 11
 -43 13 -119 9 -55 -2 -142 -4 -192 -4 -85 -1 -95 -3 -118 -26 -22 -22 -25 -34
 -25 -91 0 -36 -4 -65 -8 -65 -5 0 -33 -15 -64 -33 l-55 -34 -47 38 c-66 53
